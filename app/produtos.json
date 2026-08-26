@@ -1,0 +1,73 @@
+[
+  {
+    "sku": "TEC-001",
+    "name": "Fone de Ouvido Bluetooth Apex",
+    "category": "Eletrônicos",
+    "price": 150.00,
+    "stock": 45
+  },
+  {
+    "sku": "TEC-002",
+    "name": "Suporte Ergonômico para Notebook",
+    "category": "Acessórios",
+    "price": 89.90,
+    "stock": 12
+  },
+  {
+    "sku": "TEC-003",
+    "name": "Mouse Gamer RGB Voador",
+    "category": "Eletrônicos",
+    "price": 120.50,
+    "stock": 30
+  },
+  {
+    "sku": "CASA-010",
+    "name": "Caneca Térmica Inox Polar",
+    "category": "Utilidades",
+    "price": 65.00,
+    "stock": 80
+  },
+  {
+    "sku": "CASA-011",
+    "name": "Luminária de Mesa LED Lumi",
+    "category": "Decoração",
+    "price": 95.00,
+    "stock": 15
+  },
+  {
+    "sku": "ESC-100",
+    "name": "Caderno Espiral Capa Dura 200f",
+    "category": "Papelaria",
+    "price": 24.90,
+    "stock": 120
+  },
+  {
+    "sku": "ESC-101",
+    "name": "Kit Caneta Gel Cores Pastel (4un)",
+    "category": "Papelaria",
+    "price": 18.50,
+    "stock": 200
+  },
+  {
+    "sku": "VEST-500",
+    "name": "Camiseta Básica Algodão P",
+    "category": "Vestuário",
+    "price": 49.90,
+    "stock": 25
+  },
+  {
+    "sku": "VEST-501",
+    "name": "Camiseta Básica Algodão M",
+    "category": "Vestuário",
+    "price": 49.90,
+    "stock": 40
+  },
+  {
+    "sku": "VEST-502",
+    "name": "Camiseta Básica Algodão G",
+    "category": "Vestuário",
+    "price": 49.90,
+    "stock": 8
+  }
+]
+
